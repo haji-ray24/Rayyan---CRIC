@@ -1,0 +1,5 @@
+{
+  "name": "CricShot AI Coach",
+  "description": "An AI-powered cricket coaching assistant that suggests the best shot selection based on bowling line, length, and type. Visualizes the shot direction on a cricket field.",
+  "requestFramePermissions": []
+}
